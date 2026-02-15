@@ -1,0 +1,1 @@
+First commit. I plan to create a well structured README file in which I will break down the steps I have taken and will take to work through this project.
